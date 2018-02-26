@@ -1,3 +1,6 @@
 http://www.oznetnerd.com/python-demystifying-aws-boto3/
 
 https://programtalk.com/python-examples/boto3.session.Session/
+
+
+https://github.com/ansible/ansible/tree/devel/contrib/inventory
