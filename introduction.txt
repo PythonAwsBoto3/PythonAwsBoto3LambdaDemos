@@ -4,3 +4,31 @@ https://programtalk.com/python-examples/boto3.session.Session/
 
 
 https://github.com/ansible/ansible/tree/devel/contrib/inventory
+
+
+
+https://github.com/hiteshBhatia/aws-boto-scripts/tree/master/backup-manager
+http://www.tothenew.com/blog/ec2-backup-manager-python-scripts/
+
+http://blog.codebender.cc/2015/10/09/writing-automation-tools-for-amazon-web-services/
+
+http://www.rassoc.com/gregr/weblog/2016/02/10/pythonista-scripts-for-ec2/
+
+https://github.com/mikemead/Sysadmin/blob/master/AWS/ec2_snapshot.py
+
+https://gist.github.com/mprabhuram/1283370
+
+https://github.com/mikemead/Sysadmin/blob/master/LinuxSys/check_diskusage.py
+
+
+https://github.com/lclemente/amibackup
+
+http://www.risenshinedevopsonaws.com/2018/01/devops-on-aws-python-script-to-create.html
+
+http://www.risenshinedevopsonaws.com/2018/01/devops-on-aws-python-script-to-start.html
+
+https://enterprise.arcgis.com/en/server/latest/cloud/amazon/automate-cf-with-aws-tools.htm
+
+https://linuxadministrations.wordpress.com/2017/06/02/boto-using-python-to-automate-aws-services/
+
+https://medium.com/@devopsglobaleli/introduction-17b4d0c592b6
