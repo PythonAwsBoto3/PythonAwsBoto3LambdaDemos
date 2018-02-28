@@ -32,3 +32,6 @@ https://enterprise.arcgis.com/en/server/latest/cloud/amazon/automate-cf-with-aws
 https://linuxadministrations.wordpress.com/2017/06/02/boto-using-python-to-automate-aws-services/
 
 https://medium.com/@devopsglobaleli/introduction-17b4d0c592b6
+
+https://blog.wavycloud.com/2016/12/27/boto3-pyboto3-autocomplete/
+https://sysadmins.co.za/interfacing-amazon-dynamodb-with-python-using-boto3/
