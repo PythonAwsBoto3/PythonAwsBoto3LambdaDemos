@@ -1,1 +1,3 @@
 https://programtalk.com/python-examples/boto3.resource/
+
+https://www.programcreek.com/python/example/97943/boto3.client
