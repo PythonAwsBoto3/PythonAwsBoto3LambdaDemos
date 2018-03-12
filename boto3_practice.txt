@@ -1,3 +1,5 @@
 https://programtalk.com/python-examples/boto3.resource/
 
 https://www.programcreek.com/python/example/97943/boto3.client
+
+http://www.oznetnerd.com/python-demystifying-aws-boto3/
