@@ -1,0 +1,1 @@
+https://programtalk.com/python-examples/boto3.resource/
