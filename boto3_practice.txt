@@ -3,3 +3,15 @@ https://programtalk.com/python-examples/boto3.resource/
 https://www.programcreek.com/python/example/97943/boto3.client
 
 http://www.oznetnerd.com/python-demystifying-aws-boto3/
+
+https://github.com/boto/boto3/issues/598
+
+
+https://www1.amazonian.io/post/python-boto3-arguments-sessions/
+https://github.com/boto/boto3/blob/develop/scripts/new-change
+
+http://veekaybee.github.io/2018/01/28/working-with-aws/
+
+https://codereview.stackexchange.com/questions/182684/aws-lambda-python-function-to-enable-disable-access-to-a-vpc-environment
+
+https://medium.com/@dinushad92/scale-down-ec2-container-instances-in-ecs-fb97f895ac9c
